@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm YueAgar_c</h1>
 <h3 align="center">A 20 years old amateur programmer from Hong Kong</h3>
 
-- 🏫 I look forward to studying Computer Science in the Chinese University of Hong Kong
-- 🌱 I’m currently learning **C++**
+- 🏫 I am studying Computer Science in the Chinese University of Hong Kong.
+- 🌱 I’m currently learning **C++** and **Java**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
